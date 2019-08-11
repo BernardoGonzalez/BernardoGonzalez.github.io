@@ -8,7 +8,7 @@ locale                   : "en-US"
 title                    : "Bernardo Gonzalez Torres"
 title_separator          : "-"
 name                     : &name "Bernardo Gonzalez"
-description              : &description "Phd Student at UCSC"
+description              : &description "Phd Student at [UCSC](https://www.soe.ucsc.edu)"
 url                      : https://BernardoGonzalez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BernardoGonzalez/BernardoGonzalez.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Bernardo Gonzalez"
   avatar           : "profile.png"
-  bio              : "Phd Student at <a href="https://www.soe.ucsc.edu">UCSC</a>"
+  bio              : "Phd Student at [UCSC](https://www.soe.ucsc.edu)"
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
