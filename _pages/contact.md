@@ -7,3 +7,4 @@ author_profile: true
 
 Office: Engineering 2, Room 489  
 E-mail: beaugonz [at] ucsc [dot] edu  
+[Academic webpage](https://users.soe.ucsc.edu/~bernardotorres/)
