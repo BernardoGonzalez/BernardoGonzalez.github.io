@@ -3,8 +3,6 @@ permalink: /contact/
 title: "Contact Information"
 excerpt: "Contact me"
 author_profile: true
-redirect_from: 
-  - /contact/
 ---
 
 Office: Engineering 2, Room 489  
