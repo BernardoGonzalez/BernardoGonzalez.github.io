@@ -12,6 +12,7 @@ Welcome! I am a Ph.D. student in Computer Science at UCSC. Prior to joining UCSC
 
 Contact Information
 ======
-Office: Engineering 2, Room 489
-E-mail: beaugonz [at] ucsc [dot] edu
-Advisor: Prof. [Yang Liu](http://www.yliuu.com)
+Information: |
+  Office: Engineering 2, Room 489
+  E-mail: beaugonz [at] ucsc [dot] edu
+  Advisor: Prof. [Yang Liu](http://www.yliuu.com)
